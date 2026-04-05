@@ -1,6 +1,8 @@
 # FitHub CRM: Comprehensive Implementation Documentation
-**Author:** Hrithik Sankar R,Thowfiq Rahman A, Vinusha M, Shruthi U
+**Author:** Hrithik Sankar R,Thowfiq Rahman A, Vinusha M, Shruthi U 
+
 **Date:** April 5, 2026  
+
 **System:** Salesforce Lightning Experience (Developer Edition)
 
 ---
