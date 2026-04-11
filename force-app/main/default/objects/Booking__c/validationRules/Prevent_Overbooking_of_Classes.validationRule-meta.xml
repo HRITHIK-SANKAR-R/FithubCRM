@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Prevent_Overbooking_of_Classes</fullName>
+    <active>true</active>
+    <errorConditionFormula>Class__r.Booked_Slots__c &gt;= Class__r.Capacity__c</errorConditionFormula>
+    <errorMessage>You cannot book more slots than the class capacity.</errorMessage>
+</ValidationRule>
